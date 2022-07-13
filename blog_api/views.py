@@ -21,7 +21,6 @@ class PostDetail(generics.RetrieveDestroyAPIView):
 
 
 
-
 """ Concrete View Classes
 #CreateAPIView
 Used for create-only endpoints.
